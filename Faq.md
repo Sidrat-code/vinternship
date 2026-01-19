@@ -305,6 +305,7 @@ If you're facing profile picture issues, try these troubleshooting steps:
 
 **8.7 Why is it mandatory to update my Display Picture (DP)?**
 Updating your DP with a clear photo of your face helps establish your identity in the community. This reduces risks such as impersonation, cyberbullying, and misuse of the platform, similar to showing an ID card in a physical organization.
+
   **8.7.1 What kind of Display Picture is allowed?**
   ->Only original photographs clearly showing your face are allowed.
   ->GenAI-generated images, avatars, cartoons, logos, or group photos are not permitted.
@@ -319,7 +320,6 @@ Follow these steps to join the internship channels using your college email:
 
 1. **Create an account** on Zoho Cliq using your **COLLEGE MAIL ID**
 2. Access your **college mail inbox** and accept the request to join the **pinternship channels**
-
 Make sure to use your college email ID throughout the process to ensure proper access and identification.
 
 ---
